@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "KotlinIntroduction"
 include(":app")
 include(":firstactivity")
+include(":secondactivity")
